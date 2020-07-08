@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-    <img alt="Aircnc" title="#delicinha" src=".github/logo.png" width="250px" />
+    <img alt="Aircnc" title="aircnc" src=".github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -55,7 +55,7 @@ _npm run dev_
 
 ## ![ask and answer](https://img.icons8.com/nolan/30/faq.png) FAQ
 
-**Question**: What are the tecnologies used in this project?
+**Question**: What are the technologies used in this project?
 
 **Answer**: ReactJs; React Native; Expo; Mongodb; Socket.io; NodeJs with Express
 
