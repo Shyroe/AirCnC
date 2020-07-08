@@ -1,72 +1,74 @@
-<h1 align="center">
+﻿<h1 align="center">
     <img alt="Aircnc" title="#delicinha" src=".github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
   ☕ Code and coffee
 </h4>
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-9.svg">
-  
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-9.svg">
-  </a>
+## Badges
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-9.svg">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
-
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<br>
+![alt](https://img.shields.io/badge/author-Shyroe-orange)
+![alt](https://img.shields.io/badge/languages-4-orange)
+![alt](https://img.shields.io/github/contributors/Shyroe/AirCnc.svg?style=flat&color=orange)
+![alt](https://img.shields.io/github/forks/Shyroe/AirCnc.svg?color=orange)
 
 <p align="center">
   <img alt="Frontend" src=".github/aircnc.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+# ![contents](https://img.icons8.com/color/40/000000/pin.png) Table of Contents
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- Features
+- Instalation
+- Getting Started
+- FAQ
+- Found a bug ? Missing a specific feature ?
+- Contributing
+- License
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+## ![#features](https://img.icons8.com/color/30/000000/rocket.png) Features
 
-## 💻 Projeto
+- Booking spots in real time, mobile and web browser integration
+- create spots with image upload in backend
+- Create specific spot for each user
 
-O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.
+## ![built](https://img.icons8.com/color/30/000000/maintenance.png) Instalation
 
-## 🔖 Layout
+**You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTPS, run this command:**
 
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/semana-omnistack/aircnc.sketch).
+_git clone https://github.com/Shyroe/repo.git_
 
-Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Zeplin](https://zeplin.io).
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
-## 🤔 Como contribuir
+_git clone https://github.com/Shyroe/repo.git_
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+**Install dependencies**
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+_npm install_
 
-## :memo: Licença
+## ![start project](https://img.icons8.com/color/30/000000/running--v1.png) Getting Started
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Run the following command in order to start the application in a development environment:
 
----
+_npm run dev_
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+## ![ask and answer](https://img.icons8.com/nolan/30/faq.png) FAQ
+
+**Question**: What are the tecnologies used in this project?
+
+**Answer**: ReactJs; React Native; Expo; Mongodb; Socket.io; NodeJs with Express
+
+## ![there is a bug ? check this!](https://img.icons8.com/color/30/000000/mental-state.png) Issues
+
+Feel free to file a new issue with a respective title and description on the the Amazon Next repository. If you already found a solution to your problem, i would love to review your pull request! Have a look at our contribution guidelines to find out about the coding standards.
+
+## ![contribute to project](https://img.icons8.com/color/30/000000/hashtag-2.png) Contributing
+
+Check out the contributing page to see the best places to file issues, start discussions and begin contributing.
+
+## ![License](https://img.icons8.com/color/30/000000/book.png) License
+
+This project is under the MIT license.
+
+Made with love by Shyroe
